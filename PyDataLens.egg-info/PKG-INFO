@@ -1,6 +1,6 @@
 Metadata-Version: 2.2
 Name: PyDataLens
-Version: 0.1
+Version: 0.2
 Summary: A Python package for automatic EDA, data cleaning, and visualization.
 Author: Gopalakrishn Arjunan
 Author-email: gopalakrishnana02@gmail.com
