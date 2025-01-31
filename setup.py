@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
     name="PyDataLens",
-    version="0.2",
+    version="0.3",
     description="A Python package for automatic EDA, data cleaning, and visualization.",
     author='Gopalakrishn Arjunan',
     author_email='gopalakrishnana02@gmail.com',
@@ -14,6 +14,12 @@ setup(
         "numpy",
         "matplotlib",
         "seaborn",
+    ],
+    url='https://github.com/gopalakrishnanarjun/PyDataLens',  # Update with your GitHub repository URL
+    classifiers=[
+        'Programming Language :: Python :: 3',
+        'License :: OSI Approved :: MIT License',
+        'Operating System :: OS Independent',
     ],
     python_requires=">=3.6",
 )

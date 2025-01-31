@@ -1,9 +1,13 @@
 Metadata-Version: 2.2
 Name: PyDataLens
-Version: 0.2
+Version: 0.3
 Summary: A Python package for automatic EDA, data cleaning, and visualization.
+Home-page: https://github.com/gopalakrishnanarjun/PyDataLens
 Author: Gopalakrishn Arjunan
 Author-email: gopalakrishnana02@gmail.com
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
 Requires-Python: >=3.6
 Description-Content-Type: text/markdown
 License-File: LICENSE.txt
@@ -13,8 +17,10 @@ Requires-Dist: matplotlib
 Requires-Dist: seaborn
 Dynamic: author
 Dynamic: author-email
+Dynamic: classifier
 Dynamic: description
 Dynamic: description-content-type
+Dynamic: home-page
 Dynamic: requires-dist
 Dynamic: requires-python
 Dynamic: summary
