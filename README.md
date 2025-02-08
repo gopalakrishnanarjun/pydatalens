@@ -1,7 +1,7 @@
 
-# PyDataLens
+# pydatalens
 
-PyDataLens is a Python package designed to streamline the process of **Exploratory Data Analysis (EDA)**, **data cleaning**, and **visualization**. 
+pydatalens is a Python package designed to streamline the process of **Exploratory Data Analysis (EDA)**, **data cleaning**, and **visualization**. 
 It enables data scientists and analysts to quickly prepare, explore, and gain insights from datasets with minimal effort.
 
 ---
@@ -41,8 +41,8 @@ It enables data scientists and analysts to quickly prepare, explore, and gain in
 ### Using pip (from source)
 1. Clone the repository:
    ```bash
-   git clone https://github.com/gopalakrishnanarjun/PyDataLens.git
-   cd PyDataLens
+   git clone https://github.com/gopalakrishnanarjun/pydatalens.git
+   cd pydatalens
    ```
 2. Install the package:
    ```bash
@@ -133,14 +133,6 @@ Contributions are welcome! If you'd like to contribute, please fork the reposito
 ---
 
 ## License
-PyDataLens is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
+pydatalens is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
 
 ---
-
-## Support
-For any questions or issues, please feel free to open an issue on GitHub.
-
----
-
-**Author:** Gopalakrishnan Arjunan 
-**GitHub:** [gopalakrishnanarjun](https://github.com/gopalakrishnanarjun)

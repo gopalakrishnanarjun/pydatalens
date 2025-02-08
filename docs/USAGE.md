@@ -1,17 +1,17 @@
 
-# PyDataLens Usage Guide
+# pydatalens Usage Guide
 
-PyDataLens is a Python package designed to simplify exploratory data analysis (EDA), data cleaning, and visualization. This guide provides examples of how to use the package effectively.
+pydatalens is a Python package designed to simplify exploratory data analysis (EDA), data cleaning, and visualization. This guide provides examples of how to use the package effectively.
 
 ## Installation
 
-Ensure you have the required dependencies installed. You can install PyDataLens using the following steps:
+Ensure you have the required dependencies installed. You can install pydatalens using the following steps:
 
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/PyDataLens.git
-   cd PyDataLens
+   git clone https://github.com/gopalakrishnanarjun/pydatalens.git
+   cd pydatalens
    ```
 
 2. Install the package:
@@ -101,7 +101,7 @@ Future versions will include a feature to generate an HTML or PDF EDA report.
 
 ## Example Usage
 
-Here’s a complete example of using PyDataLens:
+Here’s a complete example of using pydatalens:
 
 ```python
 import pandas as pd
@@ -132,4 +132,4 @@ If you encounter any issues, feel free to open an issue on GitHub or contact the
 
 ---
 
-Happy analyzing with PyDataLens!
+Happy analyzing with pydatalens!

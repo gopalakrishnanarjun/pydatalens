@@ -1,7 +1,7 @@
 
-# **PyDataLens Installation Guide**
+# **pydatalens Installation Guide**
 
-This guide explains how to install and set up the **PyDataLens** package for automatic exploratory data analysis (EDA), data cleaning, and visualization.
+This guide explains how to install and set up the **pydatalens** package for automatic exploratory data analysis (EDA), data cleaning, and visualization.
 
 ---
 
@@ -25,10 +25,10 @@ This guide explains how to install and set up the **PyDataLens** package for aut
 ## **Installation Steps**
 
 ### **Step 1: Clone the Repository**
-Download the PyDataLens repository from GitHub:
+Download the pydatalens repository from GitHub:
 ```bash
-git clone https://github.com/yourusername/PyDataLens.git
-cd PyDataLens
+git clone https://github.com/gopalakrishnanarjun/pydatalens.git
+cd pydatalens
 ```
 
 ### **Step 2: Create a Virtual Environment (Optional but Recommended)**
@@ -39,7 +39,7 @@ source pydatalens_env/bin/activate  # On Windows: pydatalens_env\Scripts\activat
 ```
 
 ### **Step 3: Install the Package**
-Run the following command to install the PyDataLens package and its dependencies:
+Run the following command to install the pydatalens package and its dependencies:
 ```bash
 pip install -e .
 ```
@@ -48,7 +48,7 @@ pip install -e .
 
 ## **Dependencies**
 
-PyDataLens requires the following Python packages:
+pydatalens requires the following Python packages:
 
 - **pandas**: For data manipulation
 - **numpy**: For numerical operations
@@ -69,7 +69,7 @@ After installation, you can verify the setup by running the following commands:
 ### **1. Check the Installation**
 Run this Python command to check if the package is installed:
 ```bash
-python -c "import pydatalens; print('PyDataLens is installed successfully!')"
+python -c "import pydatalens; print('pydatalens is installed successfully!')"
 ```
 
 ### **2. Run Tests**
@@ -112,7 +112,7 @@ pip install --user -e .
 
 ---
 
-## **Uninstalling PyDataLens**
+## **Uninstalling pydatalens**
 
 To remove the package from your system:
 ```bash
@@ -124,6 +124,6 @@ pip uninstall pydatalens
 ## **Support**
 
 If you encounter any issues or need help, please open an issue in the GitHub repository:
-[PyDataLens GitHub Issues](https://github.com/yourusername/PyDataLens/issues)
+[pydatalens GitHub Issues](https://github.com/gopalakrishnanarjun/pydatalens/issues)
 
-Enjoy using **PyDataLens** for your data analysis needs! 🚀
+Enjoy using **pydatalens** for your data analysis needs! 🚀

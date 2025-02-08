@@ -1,8 +1,8 @@
 from setuptools import setup, find_packages
 
 setup(
-    name="PyDataLens",
-    version="0.3",
+    name="pydatalens",
+    version="0.0.5",
     description="A Python package for automatic EDA, data cleaning, and visualization.",
     author='Gopalakrishn Arjunan',
     author_email='gopalakrishnana02@gmail.com',
@@ -15,7 +15,7 @@ setup(
         "matplotlib",
         "seaborn",
     ],
-    url='https://github.com/gopalakrishnanarjun/PyDataLens',  # Update with your GitHub repository URL
+    url='https://github.com/gopalakrishnanarjun/pydatalens',  # Update with your GitHub repository URL
     classifiers=[
         'Programming Language :: Python :: 3',
         'License :: OSI Approved :: MIT License',
