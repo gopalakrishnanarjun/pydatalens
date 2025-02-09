@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
     name="pydatalens",
-    version="0.0.1",
+    version="0.0.2",
     description="A Python package for automatic EDA, data cleaning, and visualization.",
     author='Gopalakrishn Arjunan',
     author_email='gopalakrishnana02@gmail.com',
