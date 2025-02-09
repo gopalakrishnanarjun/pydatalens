@@ -1,6 +1,6 @@
 Metadata-Version: 2.2
 Name: pydatalens
-Version: 0.0.3
+Version: 0.0.4
 Summary: A Python package for automatic EDA, data cleaning, and visualization.
 Home-page: https://github.com/gopalakrishnanarjun/pydatalens
 Author: Gopalakrishn Arjunan
