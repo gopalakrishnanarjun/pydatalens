@@ -11,6 +11,11 @@ pydatalens/cleaning.py
 pydatalens/eda.py
 pydatalens/utils.py
 pydatalens/visualizations.py
+pydatalens.egg-info/PKG-INFO
+pydatalens.egg-info/SOURCES.txt
+pydatalens.egg-info/dependency_links.txt
+pydatalens.egg-info/requires.txt
+pydatalens.egg-info/top_level.txt
 tests/__init__.py
 tests/test_cleaning.py
 tests/test_eda.py
