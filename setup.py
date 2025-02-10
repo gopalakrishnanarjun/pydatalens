@@ -4,7 +4,7 @@ setup(
     name="pydatalens",
     version="0.0.7",
     description="A Python package for automatic EDA, data cleaning, and visualization.",
-    author='Gopalakrishn Arjunan',
+    author='Gopalakrishnan Arjunan',
     author_email='gopalakrishnana02@gmail.com',
     long_description=open('README.md', encoding='utf-8').read(),
     long_description_content_type='text/markdown',
