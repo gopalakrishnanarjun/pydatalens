@@ -3,7 +3,7 @@ Name: pydatalens
 Version: 0.0.7
 Summary: A Python package for automatic EDA, data cleaning, and visualization.
 Home-page: https://github.com/gopalakrishnanarjun/pydatalens
-Author: Gopalakrishn Arjunan
+Author: Gopalakrishnan Arjunan
 Author-email: gopalakrishnana02@gmail.com
 Classifier: Programming Language :: Python :: 3
 Classifier: License :: OSI Approved :: MIT License
